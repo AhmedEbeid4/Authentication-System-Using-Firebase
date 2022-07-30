@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login&amp;Sign Up using Firebase</string>
+    <string name="welcome_word">Welcome</string>
+    <string name="sign_up_secntence">Sign up to continue</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Email_Word">Email</string>
+    <string name="Password">Password</string>
+    <string name="forget_password_word">Forget Password?</string>
+    <string name="Name_word">Name</string>
+    <string name="sign_up_word">Sign Up</string>
+</resources>

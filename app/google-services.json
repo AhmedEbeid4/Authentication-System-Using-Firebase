@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538615150214",
+    "project_id": "authapp-91757",
+    "storage_bucket": "authapp-91757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538615150214:android:41a20d01554e71eb28c307",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538615150214-duv8d9a9cs0mjmnklu06eu37ohb1uj09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBS4m2jh80P8E5E5MWmaB-MxXPqFE9IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538615150214-duv8d9a9cs0mjmnklu06eu37ohb1uj09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

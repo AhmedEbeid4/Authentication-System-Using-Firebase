@@ -1,0 +1,2 @@
+rootProject.name = "Login&Sign Up using Firebase"
+include ':app'

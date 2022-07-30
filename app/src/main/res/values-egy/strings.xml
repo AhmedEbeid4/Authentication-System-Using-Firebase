@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_word">مرحبا</string>
+    <string name="sign_up_secntence">سجل الدخول</string>
+    <string name="sign_up">حساب جديد</string>
+    <string name="Email_Word">ايميلك الشخصي</string>
+    <string name="Password">كلمة السر</string>
+    <string name="forget_password_word">نسيت كلمة السر</string>
+    <string name="Name_word">الاسم</string>
+    <string name="sign_up_word">حساب جديد</string>
+</resources>
